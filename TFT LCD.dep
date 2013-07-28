@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>1949695259</fileChecksum>
+  <configuration>
+    <name>Release</name>
+    <outputs>
+      <file>$PROJ_DIR$\Src\Bejeweled.c</file>
+      <file>$PROJ_DIR$\Lib\driverlib3223.a</file>
+      <file>$PROJ_DIR$\Release\Obj\mmc-ek-lm3s1138.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\Luminary\rom_map.h</file>
+      <file>$TOOLKIT_DIR$\inc\xtls.h</file>
+      <file>$PROJ_DIR$\Release\Obj\uartstdio.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\startup_ewarm.o</file>
+      <file>$TOOLKIT_DIR$\inc\Luminary\interrupt.h</file>
+      <file>$TOOLKIT_DIR$\inc\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\Src\hz16.h</file>
+      <file>$PROJ_DIR$\Release\Obj\main.o</file>
+      <file>$TOOLKIT_DIR$\config\Luminary\LM3S.icf</file>
+      <file>$PROJ_DIR$\Release\Obj\Bejeweled.o</file>
+      <file>$TOOLKIT_DIR$\inc\stdlib.h</file>
+      <file>$TOOLKIT_DIR$\inc\xlocale.h</file>
+      <file>$PROJ_DIR$\Release\Obj\startup.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\time.h</file>
+      <file>$TOOLKIT_DIR$\inc\string.h</file>
+      <file>$PROJ_DIR$\Src\ff.h</file>
+      <file>$PROJ_DIR$\Src\integer.h</file>
+      <file>$PROJ_DIR$\Release\Exe\Bejeweled.out</file>
+      <file>$PROJ_DIR$\Release\Obj\main.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\DLib_Config_Normal.h</file>
+      <file>$PROJ_DIR$\Src\fault.h</file>
+      <file>$TOOLKIT_DIR$\inc\Luminary\hw_memmap.h</file>
+      <file>$PROJ_DIR$\Src\Bejeweled.h</file>
+      <file>$TOOLKIT_DIR$\inc\Luminary\hw_types.h</file>
+      <file>$PROJ_DIR$\Release\Obj\LTM024D130.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\startup.o</file>
+      <file>$PROJ_DIR$\Release\Obj\LTM024D130.o</file>
+      <file>$TOOLKIT_DIR$\inc\xmtx.h</file>
+      <file>$TOOLKIT_DIR$\inc\Luminary\rom.h</file>
+      <file>$TOOLKIT_DIR$\inc\wchar.h</file>
+      <file>$TOOLKIT_DIR$\inc\stdio.h</file>
+      <file>$TOOLKIT_DIR$\inc\ycheck.h</file>
+      <file>$PROJ_DIR$\Release\Obj\Bejeweled.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\Release\Obj\cmdline.o</file>
+      <file>$PROJ_DIR$\Release\Obj\startup_ewarm.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\stdarg.h</file>
+      <file>$PROJ_DIR$\Release\Obj\mmc-ek-lm3s1138.o</file>
+      <file>$TOOLKIT_DIR$\inc\xlocale_c.h</file>
+      <file>$TOOLKIT_DIR$\inc\xencoding_limits.h</file>
+      <file>$TOOLKIT_DIR$\inc\Luminary\hw_uart.h</file>
+      <file>$PROJ_DIR$\Src\dataType.h</file>
+      <file>$TOOLKIT_DIR$\lib\dl7M_tl_in.a</file>
+      <file>$TOOLKIT_DIR$\inc\Luminary\sysctl.h</file>
+      <file>$PROJ_DIR$\Release\Exe\TFT LCD.out</file>
+      <file>$PROJ_DIR$\Release\Obj\touch.o</file>
+      <file>$TOOLKIT_DIR$\inc\Luminary\hw_gpio.h</file>
+      <file>$PROJ_DIR$\Release\Obj\hz16.o</file>
+      <file>$TOOLKIT_DIR$\inc\Luminary\gpio.h</file>
+      <file>$PROJ_DIR$\Release\Obj\cmdline.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\ff.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\TFT LCD.pbd</file>
+      <file>$TOOLKIT_DIR$\inc\ysizet.h</file>
+      <file>$PROJ_DIR$\Release\Obj\sd_card.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\Luminary\systick.h</file>
+      <file>$PROJ_DIR$\Release\Obj\ff.o</file>
+      <file>$TOOLKIT_DIR$\inc\xlocaleuse.h</file>
+      <file>$PROJ_DIR$\Release\Obj\systemInit.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\Luminary\debug.h</file>
+      <file>$PROJ_DIR$\Release\Obj\uartstdio.o</file>
+      <file>$TOOLKIT_DIR$\inc\DLib_Product_string.h</file>
+      <file>$PROJ_DIR$\Src\touch.h</file>
+      <file>$TOOLKIT_DIR$\inc\Luminary\timer.h</file>
+      <file>$PROJ_DIR$\Src\main.h</file>
+      <file>$TOOLKIT_DIR$\inc\Luminary\hw_flash.h</file>
+      <file>$PROJ_DIR$\Release\Obj\touch.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\systemInit.o</file>
+      <file>$PROJ_DIR$\Release\Obj\hz16.pbi</file>
+      <file>$PROJ_DIR$\Release\Exe\Bejeweled.bin</file>
+      <file>$PROJ_DIR$\Src\LTM024D130.h</file>
+      <file>$PROJ_DIR$\Src\cmdline.h</file>
+      <file>$TOOLKIT_DIR$\inc\Luminary\ssi.h</file>
+      <file>$TOOLKIT_DIR$\inc\yvals.h</file>
+      <file>$PROJ_DIR$\Src\systemInit.h</file>
+      <file>$PROJ_DIR$\Src\includes.h</file>
+      <file>$TOOLKIT_DIR$\inc\DLib_Product.h</file>
+      <file>$TOOLKIT_DIR$\inc\Luminary\hw_ints.h</file>
+      <file>$TOOLKIT_DIR$\inc\Luminary\uart.h</file>
+      <file>$TOOLKIT_DIR$\inc\ctype.h</file>
+      <file>$PROJ_DIR$\Release\Exe\TFT LCD.bin</file>
+      <file>$PROJ_DIR$\Src\diskio.h</file>
+      <file>$PROJ_DIR$\Release\Obj\sd_card.o</file>
+      <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+      <file>$PROJ_DIR$\Src\cmdline.c</file>
+      <file>$PROJ_DIR$\Src\uartstdio.h</file>
+      <file>$PROJ_DIR$\Src\startup_ewarm.c</file>
+      <file>$PROJ_DIR$\Src\characterlib.h</file>
+      <file>$PROJ_DIR$\Src\ff.c</file>
+      <file>$PROJ_DIR$\Src\hz16.c</file>
+      <file>$PROJ_DIR$\Src\LTM024D130.C</file>
+      <file>$PROJ_DIR$\Src\main.c</file>
+      <file>$PROJ_DIR$\Src\mmc-ek-lm3s1138.c</file>
+      <file>$PROJ_DIR$\Src\sd_card.c</file>
+      <file>$PROJ_DIR$\Src\systemInit.c</file>
+      <file>$PROJ_DIR$\Src\touch.c</file>
+      <file>$PROJ_DIR$\Src\uartstdio.c</file>
+      <file>$PROJ_DIR$\startup.c</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\Src\Bejeweled.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 12</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 35</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 33 34 75 8 22 78 42 36 55 13 17 63 26 24 49 46 67 79 65 7 51 66 64 76 72 18 19 25</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 20</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Release\Exe\Bejeweled.out</name>
+      <outputs>
+        <tool>
+          <name>OBJCOPY</name>
+          <file> 71</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 11 1 12 29 37 58 50 10 40 84 28 69 48 62 85 45</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Release\Exe\TFT LCD.out</name>
+      <outputs>
+        <tool>
+          <name>OBJCOPY</name>
+          <file> 82</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 11 1 29 50 10 28 69 48 85 45</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Release\Obj\TFT LCD.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 35 27 52 53 70 21 2 56 15 60 68 5</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Src\cmdline.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 37</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 52</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 17 34 75 8 22 78 42 36 55 63 73</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 17 34 75 8 78 42 36 55 63 73</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Src\startup_ewarm.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 6</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 38</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Src\ff.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 58</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 53</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 17 34 75 8 22 78 42 36 55 63 18 19 83</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 17 34 75 8 78 42 36 55 63 18 19 83</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Src\hz16.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 50</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 70</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 9 44 89</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 9 44 89</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Src\LTM024D130.C</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 29</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 27</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 77 33 34 75 8 22 78 42 36 55 17 63 81 14 4 30 13 59 41 32 18 19 72 9 44 26 24 49 46 51</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 77 33 34 75 8 78 42 36 55 17 63 81 14 4 30 13 59 41 32 18 19 72 9 44 26 24 49 46 51</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Src\main.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 10</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 21</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 26 24 49 46 67 79 65 7 51 44 72 18 19 66 76 64 33 34 75 8 22 78 42 36 55 25</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 26 24 49 46 67 79 65 7 51 44 72 18 19 66 76 64 33 34 75 8 78 42 36 55 25</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Src\mmc-ek-lm3s1138.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 40</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 2</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 24 26 51 74 46 83 19</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 24 26 51 74 46 83 19</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Src\sd_card.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 84</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 56</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 76 26 24 79 7 46 51 17 34 75 8 22 78 42 36 55 63 57 73 87 18 19 83</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 76 26 24 79 7 46 51 17 34 75 8 78 42 36 55 63 57 73 87 18 19 83</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Src\systemInit.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 69</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 60</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 76 26 24 79 7 46 51</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 76 26 24 79 7 46 51</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Src\touch.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 48</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 68</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 64 76 26 24 79 7 46 51</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64 76 26 24 79 7 46 51</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Src\uartstdio.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 62</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 5</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 39 34 75 8 22 78 42 36 79 24 26 43 61 7 31 3 46 80 87</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 39 34 75 8 78 42 36 79 24 26 43 61 7 31 3 46 80 87</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\startup.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 28</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 15</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 23 26</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 23 26</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+</project>
+
+
